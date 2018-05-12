@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8625
     wikipedia: http://en.wikipedia.org/wiki/William_Penn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44895#No-Cross-No-CrownCross-of-Christ
 gutenberg_issued: '2014-02-13'
 gutenberg_type: Text
 identifiers:
