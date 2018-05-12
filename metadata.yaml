@@ -1,0 +1,36 @@
+_repo: No-Cross-No-CrownCross-of-Christ_44895
+_version: 0.1.0
+alternative_title: "No Cross, No Crown\r\nA Discourse, Showing the Nature and Discipline\
+  \ of the Holy Cross of Christ"
+covers:
+- cover_type: archival
+  image_path: 44895-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Penn, William
+    aliases:
+    - Philanglus
+    - Philo-britannicus
+    - Pen, William
+    birthdate: 1644
+    deathdate: 1718
+    gutenberg_agent_id: '8625'
+    url: http://www.gutenberg.org/2009/agents/8625
+    wikipedia: http://en.wikipedia.org/wiki/William_Penn
+description: ''
+gutenberg_issued: '2014-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Self-denial -- Early works to 1800'
+- !lcsh 'Christian life'
+- !lcsh 'Christian life -- Quaker authors'
+- !lcc 'BX'
+title: "No Cross, No Crown\r\nA Discourse, Shewing the Nature and Discipline of the\
+  \ Holy Cross of Christ"
+url: http://www.gutenberg.org/ebooks/44895
